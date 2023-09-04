@@ -1,1 +1,1 @@
-This is the second project of my Python course.
+This is the second project of my Python course - Bulls & Cows.
